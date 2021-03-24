@@ -40,7 +40,7 @@ namespace CatlogAPI
 			{
 				app.UseDeveloperExceptionPage();
 				app.UseSwagger();
-				app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApplication1 v1"));
+				app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CatlogAPI v1"));
 			}
 
 			app.UseRouting();

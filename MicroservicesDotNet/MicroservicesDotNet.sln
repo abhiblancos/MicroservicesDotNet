@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9A242F65-A95
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catlog", "Catlog", "{09956CA5-0DAC-4576-9D7D-70DD866D9088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatlogAPI", "src\Catlog\WebApplication1\CatlogAPI.csproj", "{7F31B4A0-2C13-4785-90FA-C3E092C04D79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatlogAPI", "src\Catlog\CatlogAPI\CatlogAPI.csproj", "{975E3585-FFE1-4141-8347-B63EE50A76FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,17 +15,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F31B4A0-2C13-4785-90FA-C3E092C04D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F31B4A0-2C13-4785-90FA-C3E092C04D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F31B4A0-2C13-4785-90FA-C3E092C04D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F31B4A0-2C13-4785-90FA-C3E092C04D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975E3585-FFE1-4141-8347-B63EE50A76FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975E3585-FFE1-4141-8347-B63EE50A76FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975E3585-FFE1-4141-8347-B63EE50A76FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975E3585-FFE1-4141-8347-B63EE50A76FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{09956CA5-0DAC-4576-9D7D-70DD866D9088} = {9A242F65-A95F-457A-B2E6-2AE4324D843A}
-		{7F31B4A0-2C13-4785-90FA-C3E092C04D79} = {09956CA5-0DAC-4576-9D7D-70DD866D9088}
+		{975E3585-FFE1-4141-8347-B63EE50A76FD} = {09956CA5-0DAC-4576-9D7D-70DD866D9088}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3FBC5A31-32BC-446E-80F7-3D82FBFB2B22}

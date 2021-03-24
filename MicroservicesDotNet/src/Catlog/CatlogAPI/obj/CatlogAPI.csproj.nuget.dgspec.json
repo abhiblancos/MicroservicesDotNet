@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\WebApplication1\\CatlogAPI.csproj": {}
+    "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\CatlogAPI\\CatlogAPI.csproj": {}
   },
   "projects": {
-    "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\WebApplication1\\CatlogAPI.csproj": {
+    "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\CatlogAPI\\CatlogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\WebApplication1\\CatlogAPI.csproj",
+        "projectUniqueName": "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\CatlogAPI\\CatlogAPI.csproj",
         "projectName": "CatlogAPI",
-        "projectPath": "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\WebApplication1\\CatlogAPI.csproj",
+        "projectPath": "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\CatlogAPI\\CatlogAPI.csproj",
         "packagesPath": "C:\\Users\\abhishek deshmukh\\.nuget\\packages\\",
-        "outputPath": "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\WebApplication1\\obj\\",
+        "outputPath": "I:\\Code Base\\MicroservicesDotNet\\MicroservicesDotNet\\src\\Catlog\\CatlogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
